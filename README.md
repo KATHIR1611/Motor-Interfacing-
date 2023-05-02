@@ -86,14 +86,14 @@ void loop() {
 ```
 ## CIRCUIT DIAGRAM:
 
-![](cr.png)
+![](cr.jpeg)
 
 
 ## OUTPUT:
 
-![](op 1.png)
+![](op 1.jpeg)
 
-![](op2.png)
+![](op2.jpeg)
 
 
 ## RESULT:
