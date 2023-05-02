@@ -91,7 +91,7 @@ void loop() {
 
 ## OUTPUT:
 
-![](op 1.jpeg)
+![](https://github.com/KATHIR1611/Motor-Interfacing-/blob/main/op%201.jpeg)
 
 ![](op2.jpeg)
 
