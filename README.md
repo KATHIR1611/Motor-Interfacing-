@@ -56,6 +56,10 @@ The L298N is a dual H-Bridge motor driver which allows speed and direction contr
 
 ## PROGRAM:
 
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
+
 ```
 #define in1 6
 #define in2 7
